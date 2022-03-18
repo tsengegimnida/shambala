@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `new`,
-    siteUrl: `https://www.yourdomain.tld`
+    title: `Shambala 2056`,
+    siteUrl: `https://shambala.gatsbyjs.io`
   },
   plugins: ["gatsby-plugin-postcss", "gatsby-plugin-react-helmet"]
 };
